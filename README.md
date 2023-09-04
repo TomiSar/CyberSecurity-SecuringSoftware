@@ -1,4 +1,4 @@
-# Helsinki Open University course Cyber Security 2023-Securing Software
+# Helsinki Open University MOOC course Cyber Security 2023-Securing Software
 
 ## Link to description Cyber Security course: Securing Software
 https://cybersecuritybase.mooc.fi/descriptions
